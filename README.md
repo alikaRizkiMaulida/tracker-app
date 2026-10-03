@@ -31,6 +31,7 @@ expense-tracker-starter-project/
 │   └── app.js           # Logika utama aplikasi (DOM, perhitungan, LocalStorage)
 ├── index.html           # Halaman utama aplikasi
 └── README.md            # Dokumentasi proyek
+```
 
 ## 🚀 Cara Menjalankan
 Ada dua cara untuk menjalankan proyek ini:
@@ -44,7 +45,7 @@ Ada dua cara untuk menjalankan proyek ini:
 3. Klik kanan pada index.html → Open with Live Server
 4. Browser akan terbuka secara otomatis dengan fitur live reload
 
-💡 Cara Penggunaan
+## 💡 Cara Penggunaan
 1. Masukkan Nama Transaksi pada kolom yang tersedia
 2. Masukkan Jumlah Transaksi (hanya angka, berupa nilai positif)
 3. Pilih Jenis Transaksi (Pemasukan atau Pengeluaran)
@@ -56,6 +57,7 @@ Ada dua cara untuk menjalankan proyek ini:
 ## 📝 Catatan
 - Seluruh data disimpan secara lokal menggunakan localStorage. Jika Anda menghapus data browser (cache/storage), maka data transaksi juga akan terhapus.
 - Proyek ini bersifat starter project, sehingga bisa dikembangkan lebih lanjut sesuai kebutuhan.
+  
 ## 📄 Lisensi
 Proyek ini dibuat untuk keperluan pembelajaran dan tidak memiliki lisensi khusus.
-```
+
